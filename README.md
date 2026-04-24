@@ -1,4 +1,4 @@
-# Hi, I'm Shrey Naik 👋
+# Hi, I'm Shrey Naik 
 
 ## About Me
 MERN stack developer currently learning Next.js and building real-world web applications. I focus on creating clean, responsive, and scalable projects.
