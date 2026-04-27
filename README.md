@@ -24,5 +24,7 @@ MERN stack developer currently learning Next.js and building real-world web appl
 - Bachelor of Engineering in Computer Engineering (6th Semester Completed)
 
 ## Contact
+
 - Email: shreynaik315@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/shreynaik1
+- Portfolio: https://portfolio-psi-liard-20.vercel.app/
